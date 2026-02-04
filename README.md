@@ -35,12 +35,7 @@ I kept the "Dark Mode" vibe very strict:
 
 ## 📸 Screenshots
 
-> [!TIP]
-> Don't forget to put your actual screenshots here before you submit!
-
-| Desktop View                                                                       | Mobile View                                                                      |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
-| ![My Desktop Version](https://via.placeholder.com/800x450?text=Desktop+Screenshot) | ![My Mobile Version](https://via.placeholder.com/300x600?text=Mobile+Screenshot) |
+![Cursor Homepage Screenshot](./public/ss.PNG)
 
 ## 🛠️ How I Built It
 
@@ -49,9 +44,7 @@ I kept the "Dark Mode" vibe very strict:
 
 ## 🔗 Check it Out
 
-- **GitHub Repo**: [Add your link here]
-- **Live Website**: [Add your hosting link here]
+- **GitHub Repo**: https://github.com/sspadwal/cursor_homepage.git
+- **Live Website**: https://cursor-homepage.netlify.app/
 
 ---
-
-_Done for the Web Development Cohort assignment._
